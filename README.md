@@ -1,10 +1,7 @@
-# makereliable
-
-## Project: 
-A Project to Create a Website to Track Reliable Used Cars
+## Project: Make/Reliable
 
 ## Goal: 
-To Bring Used Car Data on a Website.
+A Project to Create a Website to Track Reliable Used Cars
 
 ## Requirements: 
 * A SQL Database
